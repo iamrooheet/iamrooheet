@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrooheet
-- 👀 I’m interested in 
+- 👀 I'm passionate about networking and coding.
 - 🌱 I’m currently learning python and java 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Networking 
 - 📫 How to reach me  mandalroheet66@gmail.com
 
 <!---
